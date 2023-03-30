@@ -46,15 +46,15 @@ onMounted(() => {
       </h2>
       <div class="p-2 space-y-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
         <p>
-          此网站属于Tianlin所有
+          此网站属于
           <a
             class="text-blue-600 dark:text-blue-500"
             href="https://linjiangyu.com/"
             target="_blank"
           >
-            Github
+            Tianlin
           </a>
-          没有任何形式的付费行为！
+          所有没有任何形式的付费行为！
         </p>
         <p>
           请勿滥用，使用的是Tianlin的Key额度
