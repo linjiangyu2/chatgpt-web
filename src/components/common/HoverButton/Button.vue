@@ -1,4 +1,4 @@
-/**<script setup lang='ts'>
+<script setup lang='ts'>
 interface Emit {
   (e: 'click'): void
 }
@@ -18,4 +18,3 @@ function handleClick() {
     <slot />
   </button>
 </template>
-**/
