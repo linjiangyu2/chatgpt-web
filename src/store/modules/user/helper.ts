@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://cdn1.tianli0.top/gh/linjiangyu2/halo/img/fa.jpg',
       name: 'Tianlin',
-      description: 'Star on <a href="TianlinのChatGpt" class="text-blue-500" target="_blank" >Github</a>',
+      description: 'From on<a href="https://linjiangyu.com/" class="text-blue-500" target="_blank" >Tianlin_Zz</a>',
     },
   }
 }
